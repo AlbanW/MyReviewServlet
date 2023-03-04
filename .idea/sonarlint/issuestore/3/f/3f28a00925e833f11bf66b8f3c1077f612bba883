@@ -1,0 +1,13 @@
+
+m
+java:S1192"KUse already-defined constant 'LOGIN' instead of duplicating its value here.(ΨΆΝδϋÿÿÿÿ8ϋφΔικ0
+}
+java:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ΥΩϋωÿÿÿÿ8¶–κκ0
+ƒ
+java:S1989-"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(€έ•ύÿÿÿÿ8Ω•κκ0
+V
+java:S18543":Remove this useless assignment to local variable "action".(ªΉÒ]8Ω•κκ0
+G
+java:S14813"+Remove this unused "action" local variable.(ªΉÒ]8Ω•κκ0
+ƒ
+java:S1989J"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(€έ•ύÿÿÿÿ8Ω•κκ0

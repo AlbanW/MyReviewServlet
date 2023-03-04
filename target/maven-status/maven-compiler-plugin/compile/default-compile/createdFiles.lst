@@ -1,0 +1,7 @@
+fr/myreview/facade/MyReviewFacade.class
+fr/myreview/modele/Avis.class
+fr/myreview/facade/IFacade.class
+fr/myreview/modele/Restaurant.class
+fr/myreview/listeners/InitialisationFacade.class
+fr/myreview/controleur/BaseControleur.class
+fr/myreview/modele/Compte.class
